@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--
+https://go.microsoft.com/fwlink/?LinkID=208121.
+-->
+<Project>
+  <PropertyGroup>
+    <TimeStampOfAssociatedLegacyPublishXmlFile />
+    <History>False|2023-10-06T08:51:06.5905732Z;False|2023-10-06T14:10:47.6208104+05:30;False|2023-10-06T12:43:38.4905153+05:30;False|2023-10-06T11:50:55.8416606+05:30;False|2023-10-06T11:32:07.4493738+05:30;False|2023-10-06T11:09:43.1983879+05:30;False|2023-10-06T11:05:38.7560685+05:30;False|2023-10-06T10:27:53.4983197+05:30;False|2023-10-06T10:25:10.1951981+05:30;False|2023-10-06T10:24:12.0370733+05:30;</History>
+    <LastFailureDetails>2023-10-06T08:51:06.5905732Z|checkContainerPrereq</LastFailureDetails>
+  </PropertyGroup>
+</Project>
